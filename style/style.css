@@ -1,0 +1,326 @@
+.developer{
+    width: 1440px; 
+    height: 750px;
+background-image: url('/B10A1-Challenge-Begins/assets/Hero-bg.png');
+    margin: 0 auto;
+    /* border: 4px solid gold; */
+    margin-top: 79px;
+}
+.laptop{
+    color: #000072;
+    width: 240px;
+    height: 240px;
+    align-items: center;
+    margin: 0 auto;
+
+}
+.hope{
+    font-weight: bolder;
+    font-size: 48px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.last{
+    color: #000072;
+    font-weight: regular;
+    font-size: 16;
+    width: 852px;
+    text-align: center;
+    margin: 0 auto;
+    margin-right: 50px;
+}
+/* .button{
+    width: 100px;
+    height: 100px;
+    color:black;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 80px;
+    margin: 0 auto;
+    text-decoration: none;
+}
+     */
+     .rester{
+    width: 200px;
+    height: 70px;
+    color:black;
+    font-weight: 600;
+    font-size: 20px;
+    /* align-items: center; */
+    margin-left: 600px;
+   
+     }
+.awal{
+    width: 100px;
+    height: 100px;
+    color:black;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 80px;
+    margin: 0 auto;
+    text-decoration: none;
+  
+
+
+}
+.website{
+    width: 1140px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 120px;
+}
+
+.web ,.why{
+    text-align: center;
+}
+.change{
+float:left;
+margin-left: 40px;
+}
+
+.layer{
+/* background-color: black; */
+height: 60px;
+width: 60px;
+float: right;
+margin-top:20px;
+margin-right: 180px;
+}
+.website1{
+width: 1140px;
+height: 300px;
+margin: 0 auto;
+/* border: 3px solid green; */
+margin-top: 80px;
+margin-buttom:80px;
+}
+
+.web ,.why{
+    text-align: center;
+}
+.change1{
+float:right;
+}
+
+ .layer1{
+ /* background-color: black; */
+ height: 60px;
+ width: 60px;
+ float: left;
+ margin-top:20px;
+ margin-right: 180px;
+}
+.website2{
+    width:1140px;
+    height:300px;
+    margin: 0 auto;
+    /* border: 3px solid green; */
+    margin-top: 80px;
+    margin-buttom:80px
+    }
+
+    .web ,.why{
+        text-align: center;
+    }
+    .change2{
+     float:left;
+     margin-left: 40px;
+    }
+    
+.layer2{
+     /* background-color: black; */
+     height: 60px;
+     width: 60px;
+     float: right;
+     margin-top:20px;
+     margin-right:180px;
+    }
+
+
+.yes{
+    
+    /* border:3px solid gold;  */
+    width: 1140px;
+    height: 1140px;
+    margin:0 auto;
+    margin-top:80px;
+
+    
+}
+.my{
+    color: rgba(13, 19, 33, 1);
+    font-weight: ExtraBold;
+    font-size: 32px;
+    margin: 0 auto;
+    text-align: center;
+}
+.inspiration{
+    font-weight: regular;
+    font-size: 16px;
+    color: #0D1321;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.youtube{
+    width:1140px;
+    height: 700px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    margin-right: 180px;
+    border-radius: 50px;
+    margin-left: 50px;
+    margin-top: 80px;
+  
+}
+.react{
+    width: 1092px;
+    height: 700px;
+    margin: 0 auto;
+    margin-top: 80px;
+     
+}
+.wow{
+
+    color: #0D1321;
+    font-weight: ExtraBold;
+    font-size: 32px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0;
+}
+.text{
+    color: #0D1321;
+    font-weight: regular;
+    font-size: 16px;
+    margin: 0 auto;
+    text-align: center;
+}
+/* .fine{
+    color: #0D1321;
+    font-weight: regular;
+    font-size: 16px;
+    margin: 0 auto;
+    text-align: center;
+}
+.ok{
+    color: #0D1321;
+    font-weight: ExtraBold;
+    font-size: 32px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0; */
+  .tesla{
+    background-color: #FFDF00;
+    margin: 40 40 40 40px;
+ } 
+ .rishad{
+    background-color: #EBEBEB;
+    margin: 40 40 40 40px;
+ }
+ .end{
+    background-color: bisque;
+    margin: 40 40 40 40px;
+   
+ }
+.world{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 22px;
+}
+
+
+
+.support{
+      width: 840px;
+    height: 600px; 
+    margin: 0 auto;
+     /* border: 4px solid gold;  */
+    /* margin-top: 80px; */
+    
+    /* margin: 100px 150px 180px 150px; */
+    
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 66px; 
+    margin-bottom: 150px;
+    padding-top: 30px;
+    padding-bottom: 50px; 
+    background-image:url('/B10A1-Challenge-Begins/assets/handshake.jpg') ;
+    border-radius: 20px;
+}
+.hero{
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 26;
+    text-align: center;
+    margin-top: 300px;
+    /* padding-left:20px ;
+    padding-right: 50px;
+    padding-top:90px;
+    padding-bottom: 170px; */
+}
+.alow{
+    font-weight: 500;
+    font-size: 20px;
+    /* padding: 25px 30px 40px 35px;; */
+    .uiu{
+        width: 548px;
+        height: 70px;
+        padding: 25px 30px 40px 35px;;
+    }
+}
+.try{
+    width: 548px;
+    color: 3FFFFFF;
+
+    margin: 0 auto;
+/* align-items: center;  */
+}
+.last{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#robi{
+    display: flex;
+    margin-bottom: 100px;
+}
+#rob{
+    margin:20px 0 0 700px;
+    margin-bottom: 100px;
+}
+#r{
+    margin-left: 220px;
+}
+
+
+
+
+
+/* .icons{
+    display: flex;
+    justify-content: left;
+} */
+/* .robin{
+    font-weight: SemiBold;
+    font-size: 20px;
+    margin-left: 100px;
+    color: #0D1321;
+    padding-left: 100px;
+}
+.robi{
+    display: flex;
+    justify-content: center;
+}   */
+/* #rob{
+    float:right;
+}
+#r{
+    float:left;
+} */
